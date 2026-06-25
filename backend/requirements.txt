@@ -1,0 +1,38 @@
+# ─── Core ───
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+pydantic==2.10.4
+pydantic-settings==2.7.1
+python-multipart==0.0.20
+
+# ─── Azure Identity & Auth ───
+azure-identity==1.19.0
+
+# ─── Azure OpenAI ───
+openai==1.58.1
+
+# ─── Azure AI Search ───
+azure-search-documents==11.6.0b8
+
+# ─── Azure Blob Storage ───
+azure-storage-blob==12.24.0
+
+# ─── Azure Key Vault ───
+azure-keyvault-secrets==4.9.0
+
+# ─── Text Processing ───
+tiktoken==0.8.0
+
+# ─── Data Export ───
+openpyxl==3.1.5
+reportlab==4.4.0
+pandas==2.2.3
+
+# ─── Git Operations ───
+gitpython==3.1.43
+
+# ─── HTTP Client ───
+httpx==0.28.1
+
+# ─── Utilities ───
+python-dotenv==1.0.1
